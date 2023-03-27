@@ -20,8 +20,8 @@
     "@tensorflow/tfjs": "^4.2.0",
     "@tensorflow/tfjs-data": "^4.2.0",
     "@tensorflow/tfjs-node": "^4.2.0",
-    "jpeg-js": "^0.4.4",
-    "pngjs": "^6.0.0",
-    "sharp": "^0.31.3"
+    "@tensorflow/tfjs-node-gpu": "^4.2.0",
+    "@tensorflow/tfjs-vis": "^1.5.1",
+    "jimp": "^0.22.7"
   }
 }
